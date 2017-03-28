@@ -1,0 +1,3 @@
+C:/Users/cplusplus/Desktop/projekte/qt/Day7/CMakeFiles/Day7.dir
+C:/Users/cplusplus/Desktop/projekte/qt/Day7/CMakeFiles/ALL_BUILD.dir
+C:/Users/cplusplus/Desktop/projekte/qt/Day7/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\sortdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\workerthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\Day7_automoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\workerthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\sortdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\ui_sortdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\mainwindow.ui" />
+    <CustomBuild Include="C:\Users\cplusplus\Desktop\projekte\qt\Day7\sortdialog.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BCC2F063-E58E-43D3-AC73-9CE26F91FCEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{07FB2396-EF2A-4F52-9A1D-16AE2A1951CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
